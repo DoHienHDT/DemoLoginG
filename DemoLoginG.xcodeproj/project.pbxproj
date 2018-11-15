@@ -27,6 +27,7 @@
 		80A49D602147997C0056F68C /* credentials.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = credentials.plist; sourceTree = "<group>"; };
 		80D614604DD7F49848FD09B9 /* Pods-DemoLoginG.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoLoginG.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DemoLoginG/Pods-DemoLoginG.debug.xcconfig"; sourceTree = "<group>"; };
 		AA14F17D8D6B4A6861C3A16A /* Pods-DemoLoginG.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DemoLoginG.release.xcconfig"; path = "Pods/Target Support Files/Pods-DemoLoginG/Pods-DemoLoginG.release.xcconfig"; sourceTree = "<group>"; };
+		B3087F0C219D7FC3004204F4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CFD7AAED3ECDCB5895CD3EA8 /* Pods_DemoLoginG.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DemoLoginG.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -53,6 +54,7 @@
 		80A49D42214796C60056F68C = {
 			isa = PBXGroup;
 			children = (
+				B3087F0C219D7FC3004204F4 /* README.md */,
 				80A49D4D214796C60056F68C /* DemoLoginG */,
 				80A49D4C214796C60056F68C /* Products */,
 				F18DBFF8B23D3BA7D9B6F990 /* Pods */,
